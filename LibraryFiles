@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?> 
+
+<Catalogue>
+    <Book category="History">
+        <isbn>123776</isbn>
+        <title>The Battle of Stalingrad</title> 
+        <publisher>Pengiun</publisher> 
+        <author>Max Hastings</author> 
+    </Book>
+</Catalogue>
+
+<Catalogue>
+    <Book category="Science">
+        <isbn>123778</isbn>
+        <title>The Mechanics of the Cell</title> 
+        <publisher>Me</publisher> 
+        <author>Conor McCaffrey</author> 
+    </Book>
+</Catalogue>
