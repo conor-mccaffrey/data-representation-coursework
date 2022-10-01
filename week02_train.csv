@@ -1,0 +1,266 @@
+N
+N	51.8491
+N	51.8491	-8.29956
+N	51.8491	-8.29956	P257
+N	51.8491	-8.29956	P257	01 Oct 2022
+N	51.8491	-8.29956	P257	01 Oct 2022	P257\nCobh to Cork\nExpected Departure 21:30
+N	51.8491	-8.29956	P257	01 Oct 2022	P257\nCobh to Cork\nExpected Departure 21:30	To Cork
+N
+N	51.9212
+N	51.9212	-8.17579
+N	51.9212	-8.17579	P290
+N	51.9212	-8.17579	P290	01 Oct 2022
+N	51.9212	-8.17579	P290	01 Oct 2022	P290\nMidleton to Cork\nExpected Departure 21:45
+N	51.9212	-8.17579	P290	01 Oct 2022	P290\nMidleton to Cork\nExpected Departure 21:45	To Cork
+N
+N	53.146
+N	53.146	-7.18055
+N	53.146	-7.18055	B287
+N	53.146	-7.18055	B287	01 Oct 2022
+N	53.146	-7.18055	B287	01 Oct 2022	B287\nPortarlington to Hazelhatch\nExpected Departure 21:30
+N	53.146	-7.18055	B287	01 Oct 2022	B287\nPortarlington to Hazelhatch\nExpected Departure 21:30	To Hazelhatch
+N
+N	53.3223
+N	53.3223	-6.52356
+N	53.3223	-6.52356	B219
+N	53.3223	-6.52356	B219	01 Oct 2022
+N	53.3223	-6.52356	B219	01 Oct 2022	B219\nHazelhatch to Portlaoise\nExpected Departure 21:30
+N	53.3223	-6.52356	B219	01 Oct 2022	B219\nHazelhatch to Portlaoise\nExpected Departure 21:30	To Portlaoise
+N
+N	53.3223
+N	53.3223	-6.52356
+N	53.3223	-6.52356	B239
+N	53.3223	-6.52356	B239	01 Oct 2022
+N	53.3223	-6.52356	B239	01 Oct 2022	B239\nHazelhatch to Portlaoise\nExpected Departure 21:30
+N	53.3223	-6.52356	B239	01 Oct 2022	B239\nHazelhatch to Portlaoise\nExpected Departure 21:30	To Portlaoise
+N
+N	53.3223
+N	53.3223	-6.52356
+N	53.3223	-6.52356	P220
+N	53.3223	-6.52356	P220	01 Oct 2022
+N	53.3223	-6.52356	P220	01 Oct 2022	P220\nHazelhatch to Dublin Heuston\nExpected Departure 21:33
+N	53.3223	-6.52356	P220	01 Oct 2022	P220\nHazelhatch to Dublin Heuston\nExpected Departure 21:33	To Dublin Heuston
+N
+N	53.3531
+N	53.3531	-6.24591
+N	53.3531	-6.24591	D824
+N	53.3531	-6.24591	D824	01 Oct 2022
+N	53.3531	-6.24591	D824	01 Oct 2022	D824\nDublin Connolly to Drogheda\nExpected Departure 21:45
+N	53.3531	-6.24591	D824	01 Oct 2022	D824\nDublin Connolly to Drogheda\nExpected Departure 21:45	Northbound
+N
+N	53.3831
+N	53.3831	-6.4242
+N	53.3831	-6.4242	D345
+N	53.3831	-6.4242	D345	01 Oct 2022
+N	53.3831	-6.4242	D345	01 Oct 2022	D345\nClonsilla to M3 Parkway\nExpected Departure 21:46
+N	53.3831	-6.4242	D345	01 Oct 2022	D345\nClonsilla to M3 Parkway\nExpected Departure 21:46	Northbound
+N
+N	53.3891
+N	53.3891	-6.07401
+N	53.3891	-6.07401	E245
+N	53.3891	-6.07401	E245	01 Oct 2022
+N	53.3891	-6.07401	E245	01 Oct 2022	E245\nHowth to Bray\nExpected Departure 21:45
+N	53.3891	-6.07401	E245	01 Oct 2022	E245\nHowth to Bray\nExpected Departure 21:45	Southbound
+N
+N	53.4273
+N	53.4273	-7.93683
+N	53.4273	-7.93683	A718
+N	53.4273	-7.93683	A718	01 Oct 2022
+N	53.4273	-7.93683	A718	01 Oct 2022	A718\nAthlone to Galway\nExpected Departure 21:35
+N	53.4273	-7.93683	A718	01 Oct 2022	A718\nAthlone to Galway\nExpected Departure 21:35	To Galway
+N
+N	53.828
+N	53.828	-9.19296
+N	53.828	-9.19296	A872
+N	53.828	-9.19296	A872	01 Oct 2022
+N	53.828	-9.19296	A872	01 Oct 2022	A872\nManulla Junction to Ballina\nExpected Departure 21:45
+N	53.828	-9.19296	A872	01 Oct 2022	A872\nManulla Junction to Ballina\nExpected Departure 21:45	To Ballina
+R
+R	0
+R	0	0
+R	0	0	A224
+R	0	0	A224	01 Oct 2022
+R	0	0	A224	01 Oct 2022	A224\n19:15 - Portarlington to Cork (9 mins late)\nDeparted Killarney Junction next stop Cork
+R	0	0	A224	01 Oct 2022	A224\n19:15 - Portarlington to Cork (9 mins late)\nDeparted Killarney Junction next stop Cork	To Cork
+R
+R	0
+R	0	0
+R	0	0	A226
+R	0	0	A226	01 Oct 2022
+R	0	0	A226	01 Oct 2022	A226\n20:15 - Portarlington to Cork (0 mins late)\nDeparted LJ896 next stop Charleville
+R	0	0	A226	01 Oct 2022	A226\n20:15 - Portarlington to Cork (0 mins late)\nDeparted LJ896 next stop Charleville	To Cork
+R
+R	0
+R	0	0
+R	0	0	A808
+R	0	0	A808	01 Oct 2022
+R	0	0	A808	01 Oct 2022	A808\n20:15 - Athlone to Westport (17 mins late)\nDeparted Athlone Midland Yard next stop Roscommon
+R	0	0	A808	01 Oct 2022	A808\n20:15 - Athlone to Westport (17 mins late)\nDeparted Athlone Midland Yard next stop Roscommon	To Westport
+R
+R	52.1396
+R	52.1396	-8.65521
+R	52.1396	-8.65521	A312
+R	52.1396	-8.65521	A312	01 Oct 2022
+R	52.1396	-8.65521	A312	01 Oct 2022	A312\n20:00 - Mallow to Tralee (1 mins late)\nDeparted Mallow next stop Banteer
+R	52.1396	-8.65521	A312	01 Oct 2022	A312\n20:00 - Mallow to Tralee (1 mins late)\nDeparted Mallow next stop Banteer	To Tralee
+R
+R	52.1396
+R	52.1396	-8.65521
+R	52.1396	-8.65521	A314
+R	52.1396	-8.65521	A314	01 Oct 2022
+R	52.1396	-8.65521	A314	01 Oct 2022	A314\n21:00 - Cork to Tralee (1 mins late)\nArrived Mallow next stop Banteer
+R	52.1396	-8.65521	A314	01 Oct 2022	A314\n21:00 - Cork to Tralee (1 mins late)\nArrived Mallow next stop Banteer	To Tralee
+R
+R	52.6404
+R	52.6404	-8.52719
+R	52.6404	-8.52719	A478
+R	52.6404	-8.52719	A478	01 Oct 2022
+R	52.6404	-8.52719	A478	01 Oct 2022	A478\n19:38 - Limerick Junction to Ennis (2 mins late)\nDeparted Killonan next stop Limerick
+R	52.6404	-8.52719	A478	01 Oct 2022	A478\n19:38 - Limerick Junction to Ennis (2 mins late)\nDeparted Killonan next stop Limerick	To Ennis
+R
+R	53.1442
+R	53.1442	-6.06085
+R	53.1442	-6.06085	A612
+R	53.1442	-6.06085	A612	01 Oct 2022
+R	53.1442	-6.06085	A612	01 Oct 2022	A612\n18:38 - Dublin Connolly to Rosslare Europort (4 mins late)\nDeparted Greystones next stop Kilcoole
+R	53.1442	-6.06085	A612	01 Oct 2022	A612\n18:38 - Dublin Connolly to Rosslare Europort (4 mins late)\nDeparted Greystones next stop Kilcoole	Southbound
+R
+R	53.1442
+R	53.1442	-6.06085
+R	53.1442	-6.06085	E832
+R	53.1442	-6.06085	E832	01 Oct 2022
+R	53.1442	-6.06085	E832	01 Oct 2022	E832\n21:30 - Greystones to Malahide (4 mins late)\nDeparted Greystones next stop Bray
+R	53.1442	-6.06085	E832	01 Oct 2022	E832\n21:30 - Greystones to Malahide (4 mins late)\nDeparted Greystones next stop Bray	Northbound
+R
+R	53.2364
+R	53.2364	-6.11691
+R	53.2364	-6.11691	E241
+R	53.2364	-6.11691	E241	01 Oct 2022
+R	53.2364	-6.11691	E241	01 Oct 2022	E241\n20:15 - Malahide to Bray (15 mins late)\nDeparted Shankill next stop Bray
+R	53.2364	-6.11691	E241	01 Oct 2022	E241\n20:15 - Malahide to Bray (15 mins late)\nDeparted Shankill next stop Bray	Southbound
+R
+R	53.2756
+R	53.2756	-6.10333
+R	53.2756	-6.10333	E242
+R	53.2756	-6.10333	E242	01 Oct 2022
+R	53.2756	-6.10333	E242	01 Oct 2022	E242\n20:30 - Howth to Bray (8 mins late)\nArrived Dalkey next stop Killiney
+R	53.2756	-6.10333	E242	01 Oct 2022	E242\n20:30 - Howth to Bray (8 mins late)\nArrived Dalkey next stop Killiney	Southbound
+R
+R	53.2756
+R	53.2756	-6.10333
+R	53.2756	-6.10333	E936
+R	53.2756	-6.10333	E936	01 Oct 2022
+R	53.2756	-6.10333	E936	01 Oct 2022	E936\n21:25 - Bray to Howth (0 mins late)\nArrived Dalkey next stop Glenageary
+R	53.2756	-6.10333	E936	01 Oct 2022	E936\n21:25 - Bray to Howth (0 mins late)\nArrived Dalkey next stop Glenageary	Northbound
+R
+R	53.2991
+R	53.2991	-6.16512
+R	53.2991	-6.16512	E243
+R	53.2991	-6.16512	E243	01 Oct 2022
+R	53.2991	-6.16512	E243	01 Oct 2022	E243\n20:45 - Howth to Bray (3 mins late)\nArrived Seapoint next stop Salthill and Monkstown
+R	53.2991	-6.16512	E243	01 Oct 2022	E243\n20:45 - Howth to Bray (3 mins late)\nArrived Seapoint next stop Salthill and Monkstown	Southbound
+R
+R	53.3027
+R	53.3027	-6.17833
+R	53.3027	-6.17833	E831
+R	53.3027	-6.17833	E831	01 Oct 2022
+R	53.3027	-6.17833	E831	01 Oct 2022	E831\n21:10 - Bray to Malahide (0 mins late)\nArrived Blackrock next stop Booterstown
+R	53.3027	-6.17833	E831	01 Oct 2022	E831\n21:10 - Bray to Malahide (0 mins late)\nArrived Blackrock next stop Booterstown	Northbound
+R
+R	53.3347
+R	53.3347	-6.22979
+R	53.3347	-6.22979	E130
+R	53.3347	-6.22979	E130	01 Oct 2022
+R	53.3347	-6.22979	E130	01 Oct 2022	E130\n21:00 - Malahide to Greystones (1 mins late)\nArrived Lansdowne Road next stop Sandymount
+R	53.3347	-6.22979	E130	01 Oct 2022	E130\n21:00 - Malahide to Greystones (1 mins late)\nArrived Lansdowne Road next stop Sandymount	Southbound
+R
+R	53.3433
+R	53.3433	-6.24829
+R	53.3433	-6.24829	E935
+R	53.3433	-6.24829	E935	01 Oct 2022
+R	53.3433	-6.24829	E935	01 Oct 2022	E935\n20:55 - Bray to Howth (2 mins late)\nArrived Dublin Pearse next stop Tara Street
+R	53.3433	-6.24829	E935	01 Oct 2022	E935\n20:55 - Bray to Howth (2 mins late)\nArrived Dublin Pearse next stop Tara Street	Northbound
+R
+R	53.3777
+R	53.3777	-6.34591
+R	53.3777	-6.34591	P759
+R	53.3777	-6.34591	P759	01 Oct 2022
+R	53.3777	-6.34591	P759	01 Oct 2022	P759\n21:08 - Maynooth to Dublin Connolly (2 mins late)\nDeparted Navan Road Parkway next stop Ashtown
+R	53.3777	-6.34591	P759	01 Oct 2022	P759\n21:08 - Maynooth to Dublin Connolly (2 mins late)\nDeparted Navan Road Parkway next stop Ashtown	Southbound
+R
+R	53.378
+R	53.378	-6.58993
+R	53.378	-6.58993	A915
+R	53.378	-6.58993	A915	01 Oct 2022
+R	53.378	-6.58993	A915	01 Oct 2022	A915\n19:05 - Sligo to Dublin Connolly (2 mins late)\nDeparted Maynooth next stop Drumcondra
+R	53.378	-6.58993	A915	01 Oct 2022	A915\n19:05 - Sligo to Dublin Connolly (2 mins late)\nDeparted Maynooth next stop Drumcondra	Southbound
+R
+R	53.3786
+R	53.3786	-6.19131
+R	53.3786	-6.19131	E244
+R	53.3786	-6.19131	E244	01 Oct 2022
+R	53.3786	-6.19131	E244	01 Oct 2022	E244\n21:15 - Howth to Bray (5 mins late)\nDeparted Harmonstown next stop Killester
+R	53.3786	-6.19131	E244	01 Oct 2022	E244\n21:15 - Howth to Bray (5 mins late)\nDeparted Harmonstown next stop Killester	Southbound
+R
+R	53.3816
+R	53.3816	-6.37149
+R	53.3816	-6.37149	D931
+R	53.3816	-6.37149	D931	01 Oct 2022
+R	53.3816	-6.37149	D931	01 Oct 2022	D931\n21:15 - Dublin Connolly to Maynooth (0 mins late)\nArrived Castleknock next stop Coolmine
+R	53.3816	-6.37149	D931	01 Oct 2022	D931\n21:15 - Dublin Connolly to Maynooth (0 mins late)\nArrived Castleknock next stop Coolmine	Northbound
+R
+R	53.3917
+R	53.3917	-6.13678
+R	53.3917	-6.13678	E934
+R	53.3917	-6.13678	E934	01 Oct 2022
+R	53.3917	-6.13678	E934	01 Oct 2022	E934\n20:25 - Bray to Howth (9 mins late)\nArrived Bayside next stop Sutton
+R	53.3917	-6.13678	E934	01 Oct 2022	E934\n20:25 - Bray to Howth (9 mins late)\nArrived Bayside next stop Sutton	Northbound
+R
+R	53.4509
+R	53.4509	-6.15649
+R	53.4509	-6.15649	E131
+R	53.4509	-6.15649	E131	01 Oct 2022
+R	53.4509	-6.15649	E131	01 Oct 2022	E131\n21:30 - Malahide to Greystones (5 mins late)\nDeparted Malahide next stop Portmarnock
+R	53.4509	-6.15649	E131	01 Oct 2022	E131\n21:30 - Malahide to Greystones (5 mins late)\nDeparted Malahide next stop Portmarnock	Southbound
+R
+R	53.712
+R	53.712	-6.33538
+R	53.712	-6.33538	A136
+R	53.712	-6.33538	A136	01 Oct 2022
+R	53.712	-6.33538	A136	01 Oct 2022	A136\n20:50 - Dublin Connolly to Belfast (2 mins late)\nDeparted Drogheda next stop Dundalk
+R	53.712	-6.33538	A136	01 Oct 2022	A136\n20:50 - Dublin Connolly to Belfast (2 mins late)\nDeparted Drogheda next stop Dundalk	Northbound
+R
+R	53.8591
+R	53.8591	-7.9164
+R	53.8591	-7.9164	A914
+R	53.8591	-7.9164	A914	01 Oct 2022
+R	53.8591	-7.9164	A914	01 Oct 2022	A914\n19:15 - Dublin Connolly to Sligo (2 mins late)\nDeparted Dromod next stop Carrick on Shannon
+R	53.8591	-7.9164	A914	01 Oct 2022	A914\n19:15 - Dublin Connolly to Sligo (2 mins late)\nDeparted Dromod next stop Carrick on Shannon	Northbound
+R
+R	54.0007
+R	54.0007	-6.41291
+R	54.0007	-6.41291	A143
+R	54.0007	-6.41291	A143	01 Oct 2022
+R	54.0007	-6.41291	A143	01 Oct 2022	A143\n20:05 - Belfast to Dublin Connolly (0 mins late)\nDeparted Dundalk next stop Drogheda
+R	54.0007	-6.41291	A143	01 Oct 2022	A143\n20:05 - Belfast to Dublin Connolly (0 mins late)\nDeparted Dundalk next stop Drogheda	Southbound
+T
+T	53.1442
+T	53.1442	-6.06085
+T	53.1442	-6.06085	E128
+T	53.1442	-6.06085	E128	01 Oct 2022
+T	53.1442	-6.06085	E128	01 Oct 2022	E128\n20:00 - Howth to Greystones(10 mins late)\nTERMINATED Greystones at 21:31
+T	53.1442	-6.06085	E128	01 Oct 2022	E128\n20:00 - Howth to Greystones(10 mins late)\nTERMINATED Greystones at 21:31	Southbound
+T
+T	53.3223
+T	53.3223	-6.52356
+T	53.3223	-6.52356	D219
+T	53.3223	-6.52356	D219	01 Oct 2022
+T	53.3223	-6.52356	D219	01 Oct 2022	D219\n21:05 - Dublin Heuston to Hazelhatch(0 mins late)\nTERMINATED Hazelhatch at 21:26
+T	53.3223	-6.52356	D219	01 Oct 2022	D219\n21:05 - Dublin Heuston to Hazelhatch(0 mins late)\nTERMINATED Hazelhatch at 21:26	To Hazelhatch
+T
+T	53.4509
+T	53.4509	-6.15649
+T	53.4509	-6.15649	E829
+T	53.4509	-6.15649	E829	01 Oct 2022
+T	53.4509	-6.15649	E829	01 Oct 2022	E829\n20:13 - Bray to Malahide(9 mins late)\nTERMINATED Malahide at 21:30
+T	53.4509	-6.15649	E829	01 Oct 2022	E829\n20:13 - Bray to Malahide(9 mins late)\nTERMINATED Malahide at 21:30	Northbound

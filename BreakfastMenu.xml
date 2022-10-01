@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<breakfast_menu> # root element
+	<food>
+		<name>Full Irish</name>
+		<price>9.95</price>
+		<description> All the bits </description> <calories>1050</calories>
+	</food>
+	<food>
+		<name>Porridge</name>
+		<price>6.60</price>
+		<description>
+			Cooked oats
+		</description>
+		<calories>600</calories>
+	</food>
+</breakfast_menu>
